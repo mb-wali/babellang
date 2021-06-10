@@ -1,11 +1,16 @@
 {
 	"name": "babellang",
 	"displayName": "BabelLang",
+	"publisher": "mbwali",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mb-wali/babellang.git"
+	  },
 	"categories": [
 		"Other"
 	],
